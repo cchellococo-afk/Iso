@@ -1,0 +1,6 @@
+{
+  "name": "LiquidOS Launcher",
+  "description": "Futuristic iOS 27 Liquid Glass Android launcher featuring real-time frosted blur refraction, interactive spatial widgets, morphing Dynamic Capsule, and fluid spring-physics navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LiquidOS Launcher</string>
+    <string name="dynamic_capsule_desc">Interactive Dynamic Liquid Capsule</string>
+    <string name="control_center_title">Liquid Control Center</string>
+    <string name="spotlight_search_hint">Search apps, widgets, and spatial actions…</string>
+    <string name="app_library_title">App Library</string>
+    <string name="glass_studio_title">Liquid Glass Studio</string>
+    <string name="edit_home_mode">Edit Home &amp; Widgets</string>
+    <string name="done_editing">Done</string>
+    <string name="dock_section_desc">Pinned Liquid Glass Dock</string>
+    <string name="weather_widget_title">Spatial Weather</string>
+    <string name="music_widget_title">Prism Spatial Audio</string>
+    <string name="telemetry_widget_title">System Matrix</string>
+    <string name="notes_widget_title">Glass Focus &amp; Notes</string>
+    <string name="wallpaper_selector_title">iOS 27 Liquid Wallpapers</string>
+    <string name="refraction_controls_title">Glass Refraction &amp; Physics</string>
+    <string name="close_window">Close Window</string>
+</resources>
